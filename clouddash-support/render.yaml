@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: clouddash-support
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python3 -m uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false   # You will set this manually in the Render dashboard
