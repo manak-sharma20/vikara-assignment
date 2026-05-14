@@ -1,0 +1,17 @@
+{
+  "id": "KB-010",
+  "title": "Refund Policy",
+  "category": "billing",
+  "tags": [
+    "refund",
+    "billing",
+    "cancellation"
+  ],
+  "content": "We offer a 14-day money-back guarantee for all new subscriptions. If you cancel within the first 14 days, you will receive a full refund automatically. After 14 days, we do not offer prorated refunds for mid-month cancellations. Contact billing support if you believe you were charged in error.",
+  "last_updated": "2026-01-20",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "KB-003",
+  "title": "Inviting Team Members",
+  "category": "faq",
+  "tags": [
+    "team",
+    "users",
+    "invite"
+  ],
+  "content": "To invite team members, navigate to the Team Management section. Enter their email addresses and select their initial roles. They will receive an email with an invitation link that expires in 48 hours. You can resend invitations if needed.",
+  "last_updated": "2026-03-20",
+  "applies_to": [
+    "Pro",
+    "Enterprise"
+  ]
+}

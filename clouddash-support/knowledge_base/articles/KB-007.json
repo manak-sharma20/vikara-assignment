@@ -1,0 +1,17 @@
+{
+  "id": "KB-007",
+  "title": "Dashboard Loading Slowly",
+  "category": "troubleshooting",
+  "tags": [
+    "performance",
+    "dashboard",
+    "slow"
+  ],
+  "content": "Slow dashboard loading is often due to querying extremely large time ranges or unindexed custom metrics. Try reducing the time window to the last 24 hours. You can also optimize your queries by downsampling data in the query settings. If the issue persists, check our status page for ongoing incidents.",
+  "last_updated": "2026-02-15",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

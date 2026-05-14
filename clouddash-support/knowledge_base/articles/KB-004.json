@@ -1,0 +1,17 @@
+{
+  "id": "KB-004",
+  "title": "What is CloudDash?",
+  "category": "faq",
+  "tags": [
+    "about",
+    "product",
+    "overview"
+  ],
+  "content": "CloudDash is a unified cloud observability platform that helps you monitor, alert, and analyze your infrastructure across multiple cloud providers. It provides a single pane of glass for all your metrics and logs. Our goal is to simplify cloud management for developers and DevOps teams.",
+  "last_updated": "2026-01-05",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

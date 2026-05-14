@@ -1,0 +1,17 @@
+{
+  "id": "KB-012",
+  "title": "Payment Methods",
+  "category": "billing",
+  "tags": [
+    "payment",
+    "credit card",
+    "billing"
+  ],
+  "content": "We accept all major credit cards (Visa, MasterCard, American Express) via Stripe. For Enterprise customers, we also support payment via ACH bank transfer and wire transfer. You can update your default payment method at any time in the Billing settings. We do not accept PayPal or cryptocurrency.",
+  "last_updated": "2026-02-28",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

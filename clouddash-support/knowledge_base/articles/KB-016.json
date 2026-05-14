@@ -1,0 +1,17 @@
+{
+  "id": "KB-016",
+  "title": "Python SDK Quickstart",
+  "category": "api_docs",
+  "tags": [
+    "sdk",
+    "python",
+    "quickstart"
+  ],
+  "content": "Install our Python SDK using pip install clouddash-sdk. Initialize the client by passing your API key to the CloudDashClient constructor. The SDK provides convenient methods for sending custom metrics and querying logs. Full method documentation is available in the GitHub repository.",
+  "last_updated": "2026-01-15",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

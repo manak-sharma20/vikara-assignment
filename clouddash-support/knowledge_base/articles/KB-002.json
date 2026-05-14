@@ -1,0 +1,19 @@
+{
+  "id": "KB-002",
+  "title": "Supported Cloud Providers",
+  "category": "faq",
+  "tags": [
+    "cloud",
+    "providers",
+    "aws",
+    "gcp",
+    "azure"
+  ],
+  "content": "CloudDash currently supports integrations with AWS, Google Cloud Platform (GCP), and Microsoft Azure. You can connect multiple accounts from different providers in the Integrations dashboard. Support for DigitalOcean is planned for next quarter.",
+  "last_updated": "2026-04-10",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "KB-001",
+  "title": "How to Reset Your API Key",
+  "category": "faq",
+  "tags": [
+    "api",
+    "authentication",
+    "reset"
+  ],
+  "content": "Your API key can be reset from the Settings page under the Developer tab. Click 'Regenerate Key' and confirm. Make sure to update your application with the new key immediately, as the old one will stop working. Keep your new key secure.",
+  "last_updated": "2026-04-15",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

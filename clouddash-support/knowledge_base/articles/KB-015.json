@@ -1,0 +1,17 @@
+{
+  "id": "KB-015",
+  "title": "API Rate Limits",
+  "category": "api_docs",
+  "tags": [
+    "api",
+    "limits",
+    "documentation"
+  ],
+  "content": "The Starter plan allows 1,000 API requests per minute. The Pro plan allows 10,000 requests per minute. Enterprise plans have custom limits. Response headers include your current rate limit status and remaining quota. Exceeding the limit results in a 429 status code.",
+  "last_updated": "2026-05-02",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

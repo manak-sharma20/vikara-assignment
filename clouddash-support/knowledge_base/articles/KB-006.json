@@ -1,0 +1,18 @@
+{
+  "id": "KB-006",
+  "title": "AWS Integration Failing",
+  "category": "troubleshooting",
+  "tags": [
+    "aws",
+    "integration",
+    "error",
+    "credentials"
+  ],
+  "content": "AWS integration failures are usually caused by invalid IAM credentials. Verify that your IAM role has the required read-only policies attached. If you recently updated your AWS credentials, you must re-sync them in the CloudDash Integrations page. Check the connection logs for specific error codes.",
+  "last_updated": "2026-04-28",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

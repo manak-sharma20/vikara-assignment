@@ -1,0 +1,17 @@
+{
+  "id": "KB-013",
+  "title": "API Authentication Guide",
+  "category": "api_docs",
+  "tags": [
+    "api",
+    "authentication",
+    "guide"
+  ],
+  "content": "All API calls require a Bearer token in the Authorization header. You can generate a token from the Developer Settings page. Do not share this token or commit it to public repositories. If an invalid token is provided, the API will return a 401 Unauthorized response.",
+  "last_updated": "2026-03-12",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "KB-011",
+  "title": "Invoice Explanation",
+  "category": "billing",
+  "tags": [
+    "invoice",
+    "billing",
+    "charges"
+  ],
+  "content": "Your monthly invoice includes the base plan fee plus any overage charges for excess metric ingestion or API usage. Invoices are generated on the 1st of every month. You can download PDF copies of all past invoices from the Billing & Invoices tab. Line items clearly separate base fees from overages.",
+  "last_updated": "2026-04-05",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

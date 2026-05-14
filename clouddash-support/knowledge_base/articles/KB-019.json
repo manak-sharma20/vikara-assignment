@@ -1,0 +1,16 @@
+{
+  "id": "KB-019",
+  "title": "RBAC Roles Explained",
+  "category": "account",
+  "tags": [
+    "rbac",
+    "roles",
+    "permissions"
+  ],
+  "content": "Role-Based Access Control (RBAC) allows you to restrict what users can see and do. The 'Viewer' role is read-only. The 'Editor' role can modify dashboards and alerts. The 'Admin' role can manage billing and invite other users. Custom roles can be created on the Enterprise plan.",
+  "last_updated": "2026-02-10",
+  "applies_to": [
+    "Pro",
+    "Enterprise"
+  ]
+}

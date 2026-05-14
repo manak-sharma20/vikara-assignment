@@ -1,0 +1,16 @@
+{
+  "id": "KB-018",
+  "title": "Adding and Removing Users",
+  "category": "account",
+  "tags": [
+    "users",
+    "admin",
+    "management"
+  ],
+  "content": "Account administrators can add or remove users from the Team Management page. When removing a user, their active API keys and personal dashboards can be optionally transferred to another team member. Removed users immediately lose access to the CloudDash console.",
+  "last_updated": "2026-03-05",
+  "applies_to": [
+    "Pro",
+    "Enterprise"
+  ]
+}

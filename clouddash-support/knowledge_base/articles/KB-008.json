@@ -1,0 +1,16 @@
+{
+  "id": "KB-008",
+  "title": "API Rate Limit Errors",
+  "category": "troubleshooting",
+  "tags": [
+    "api",
+    "ratelimit",
+    "429"
+  ],
+  "content": "Receiving a 429 Too Many Requests error means you have exceeded your plan's API rate limit. Implement exponential backoff in your API clients to handle these errors gracefully. You can view your current API usage in the Billing section. Consider upgrading to the Enterprise plan for higher rate limits.",
+  "last_updated": "2026-03-30",
+  "applies_to": [
+    "Starter",
+    "Pro"
+  ]
+}

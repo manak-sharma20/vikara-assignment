@@ -1,0 +1,17 @@
+{
+  "id": "KB-005",
+  "title": "Troubleshooting: Alerts Not Firing",
+  "category": "troubleshooting",
+  "tags": [
+    "alerts",
+    "notifications",
+    "troubleshoot"
+  ],
+  "content": "If your alerts are not firing, first check if the alert rule is enabled in the Alerting dashboard. Ensure that the metric threshold has actually been breached for the required duration. Finally, verify that your notification channels (Slack, Email, PagerDuty) are correctly configured and have the right permissions.",
+  "last_updated": "2026-05-01",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}

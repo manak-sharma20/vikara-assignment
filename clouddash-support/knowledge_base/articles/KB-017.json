@@ -1,0 +1,15 @@
+{
+  "id": "KB-017",
+  "title": "Setting Up SSO (Single Sign-On)",
+  "category": "account",
+  "tags": [
+    "sso",
+    "saml",
+    "security"
+  ],
+  "content": "Single Sign-On (SSO) via SAML 2.0 is available exclusively on the Enterprise plan. We support integrations with Okta, Azure AD, and Google Workspace. To configure SSO, provide your Identity Provider metadata URL in the Security settings. Require SSO for all users to enforce company security policies.",
+  "last_updated": "2026-04-18",
+  "applies_to": [
+    "Enterprise"
+  ]
+}

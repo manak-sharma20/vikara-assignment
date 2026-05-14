@@ -1,0 +1,16 @@
+{
+  "id": "KB-020",
+  "title": "Viewing Audit Logs",
+  "category": "account",
+  "tags": [
+    "audit",
+    "logs",
+    "security"
+  ],
+  "content": "Audit logs track all configuration changes, logins, and data exports. They are available in the Security & Compliance tab for Admins. Audit logs are retained for 90 days on the Pro plan and 1 year on the Enterprise plan. You can export audit logs as CSV or stream them to an S3 bucket.",
+  "last_updated": "2026-05-12",
+  "applies_to": [
+    "Pro",
+    "Enterprise"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "KB-014",
+  "title": "Webhook Setup",
+  "category": "api_docs",
+  "tags": [
+    "webhook",
+    "integration",
+    "events"
+  ],
+  "content": "Webhooks allow you to receive real-time HTTP POST payloads when alerts trigger. Configure webhook endpoints in the Integrations menu by providing a destination URL. We sign all webhook payloads with a secret key so you can verify the sender. Payload schemas are documented in the developer portal.",
+  "last_updated": "2026-04-22",
+  "applies_to": [
+    "Pro",
+    "Enterprise"
+  ]
+}

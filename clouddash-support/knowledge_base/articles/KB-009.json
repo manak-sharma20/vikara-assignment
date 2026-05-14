@@ -1,0 +1,17 @@
+{
+  "id": "KB-009",
+  "title": "Plan Comparison: Starter, Pro, Enterprise",
+  "category": "billing",
+  "tags": [
+    "plans",
+    "pricing",
+    "compare"
+  ],
+  "content": "The Starter plan is $49/month and includes basic monitoring for up to 5 servers. The Pro plan is $199/month, adding advanced alerting, RBAC, and up to 50 servers. The Enterprise plan offers custom pricing, unlimited servers, dedicated support, and single sign-on (SSO). Contact sales for an Enterprise quote.",
+  "last_updated": "2026-05-10",
+  "applies_to": [
+    "Starter",
+    "Pro",
+    "Enterprise"
+  ]
+}
